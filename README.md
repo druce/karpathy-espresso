@@ -1,6 +1,6 @@
 # Espresso Machine Research Wiki
 
-Example research flow usinng Karpathy's wiki methodology
+Example research flow using Karpathy's wiki methodology
 - Create a CLAUDE.md with Claude's help  (15 minutes)
   - Prompt: help me make a CLAUDE.md to research (detailed question) using Karpathy's methodology, see https://x.com/karpathy/status/2039805659525644595 and https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f and https://www.mindstudio.ai/blog/andrej-karpathy-llm-wiki-knowledge-base-claude-code 
 - Ask Claude Code: Please ask any additional questions and create the wiki per @Claude.md (Claude crunches for 30 minutes)
