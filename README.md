@@ -1,6 +1,12 @@
 # Espresso Machine Research Wiki
 
-Upgrade research: moving from a Mr. Coffee One-Touch to a prosumer espresso machine. Budget $300-$3000, even split between milk drinks and espresso, grinder already sorted (Eureka Mignon Specialita). Standard US kitchen: 110V, no plumbing, ~16" under-cabinet clearance.
+Example research flow usinng Karpathy's wiki methodology
+- Create a CLAUDE.md with Claude's  (15 minutes)
+  - Prompt: help me make a CLAUDE.md to research <detailed question> using Karpathy's methodology, see https://x.com/karpathy/status/2039805659525644595 and https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f and https://www.mindstudio.ai/blog/andrej-karpathy-llm-wiki-knowledge-base-claude-code 
+- Claude Code: Please ask any additional questions and create the wiki per @Claude.md (Claude crunches for 30 minutes)
+- Edit wiki in Obsidian, ask Claude Code to fix any issues, answer additional questions (see `transcript.md` - 15 minutes)
+
+Task: research moving from a Mr. Coffee One-Touch to a prosumer espresso machine. Budget $300-$3000, even split between milk drinks and espresso, grinder already sorted (Eureka Mignon Specialita). Standard US kitchen: 110V, no plumbing, ~16" under-cabinet clearance.
 
 ## Start here
 
