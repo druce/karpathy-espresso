@@ -27,6 +27,7 @@ One boiler heats both brew water and steam — not at the same time. Fine for so
 - [Lelit Anna PL41TEM](machines/lelit-anna.md)
 - [Rancilio Silvia](machines/rancilio-silvia.md)
 - [Profitec Go](machines/profitec-go.md)
+- [Quick Mill Pop Up](machines/quick-mill-pop-up.md) — single-boiler saturated group with stock paddle flow control
 - [Quick Mill Alexia Evo](machines/quick-mill-alexia-evo.md) — single-boiler with stock E61 group
 
 ### Heat exchanger ($1,700-$3,100)
@@ -66,6 +67,7 @@ Prices are April 2026 street (USD). All machines listed are 110V US variants. "*
 | [Lelit Anna](machines/lelit-anna.md) | Single boiler | $599-649 | 3-5 min | 9.0×10.3×13.4 | 16.5 lb | Yes | — | No |
 | [Rancilio Silvia](machines/rancilio-silvia.md) | Single boiler | $900-995 | ~25 min | 9.2×11.0×13.4 | 30 lb | Mod | Mod | No |
 | [Profitec Go](machines/profitec-go.md) | Single boiler (rotary) | $1,199 | 5-6 min | 8.3×14.5×14.9 | 29 lb | Yes | — | No |
+| [Quick Mill Pop Up](machines/quick-mill-pop-up.md) | Single boiler (saturated) | $1,295 | ~15 min | 10.25×13.0×14.45 | 35 lb | Yes | **Paddle (stock)** | No |
 | [Quick Mill Alexia Evo](machines/quick-mill-alexia-evo.md) | Single boiler (E61) | $1,550 | 10-12 min | 9.5×17.5×15.9 | 38 lb | Yes | FC kit | No |
 | [Breville BES920XL](machines/breville-bes920xl.md) | Dual boiler | $1,599 | 15-20 min | 16.3×15.0×15.0 | 30 lb | Yes (dual) | Slayer Mod | No |
 | [Profitec Pro 400](machines/profitec-pro-400.md) | HX (E61) | $1,699 | 5-10 min | 9.0×17.6×14.7 | 41 lb | Yes (3-preset) | FCD kit | No |

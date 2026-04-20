@@ -31,11 +31,12 @@ Everything else on this list either costs more for less (Synchronika, Mozzafiato
 **Buy carefully.** This is the most confusing price band because:
 
 - [Profitec Go](machines/profitec-go.md) ($1,199) is the best-built single boiler money can buy — but it's still a single boiler, and $500 more buys a full HX.
+- [Quick Mill Pop Up](machines/quick-mill-pop-up.md) ($1,295) is the cheapest machine on this list with stock paddle flow control. Saturated-style brew group, per-degree PID, dual gauges, compact footprint. The next factory-paddle machine is the Bianca at $2,999 — a $1,700 gap.
 - [Quick Mill Alexia Evo](machines/quick-mill-alexia-evo.md) ($1,550) is the cheapest E61 machine on this list. Single boiler with E61 + PID + mechanical pre-infusion + FCD kit compatibility. Add the flow control kit later ($300-400) and you have a serious espresso-focused workflow under $2,000.
 - [Lelit Mara X](machines/lelit-mara-x.md) ($1,699) is an HX with simultaneous brew and steam, which is a material workflow upgrade.
 - [Profitec Pro 400](machines/profitec-pro-400.md) ($1,699) is an E61 HX, peer to the Mara X, different build philosophy.
 
-**Recommendation:** Skip the $1,200 single-boiler bracket unless you specifically want the Alexia Evo's E61-upgrade-path. If milk drinks matter, save another $150 and jump to Mara X or Pro 400 — the workflow difference (simultaneous brew+steam) is felt every morning. The Profitec Go is beautifully built but does the same daily dance as the Anna at double the price.
+**Recommendation:** Skip the $1,200 single-boiler bracket unless you specifically want the Alexia Evo's E61-upgrade-path or the Pop Up's stock flow control paddle. If milk drinks matter, save another $150 and jump to Mara X or Pro 400 — the workflow difference (simultaneous brew+steam) is felt every morning. The Profitec Go is beautifully built but does the same daily dance as the Anna at double the price. The Pop Up is the outlier here: espresso-first tinkerers get factory paddle profiling at a price that would otherwise require an aftermarket kit on an Alexia or Classika — but it's still a single boiler, so not a milk-drinker's machine.
 
 ### $1,700-2,000: The HX/entry-DB crossroads
 
@@ -107,6 +108,8 @@ Retrofit path: **Profitec Pro 600** ($2,399) + FCD kit ($300-400) = profiling-ca
 
 Budget: **ECM Classika PID** ($1,699) + flow control kit (factory option +$150 or aftermarket) = profiling single-boiler E61 under $2,000.
 
+Cheapest stock paddle: **Quick Mill Pop Up** ($1,295) — only factory-paddle machine under $2,800. Saturated-style group, not E61, so no flow-control kit ecosystem, but the core profiling feature is built in. Single-boiler workflow is the tradeoff.
+
 ### "I want the smallest footprint possible"
 
 Best compact DB: **Lelit Elizabeth V3** at 12.0 × 11.0 × 15.0 in, 27 lb.
@@ -136,6 +139,8 @@ For a standard US kitchen without existing plumbing, retrofitting a water line u
 **Underrated:** ECM Classika PID + flow control. Single boiler workflow limits milk, but the per-degree PID, E61, and flow control bundle is better espresso-workflow than machines costing twice as much.
 
 **Underrated:** Quick Mill Alexia Evo. The cheapest E61 on this list ($1,550) is still a commercial-grade single boiler with full E61 flow control kit compatibility. For espresso-purist buyers under $2,000, it outpoints the Silvia and Profitec Go on features per dollar. Smaller US retailer presence keeps it less visible than it deserves.
+
+**Underrated:** Quick Mill Pop Up. The only factory-paddle flow-control machine under $2,800 on this list, at $1,295. Saturated-style group, per-degree PID, dual gauges. Essentially a Lelit Bianca workflow in a single-boiler footprint at 43% the price. Big caveat: single boiler, so milk-heavy users should pass. But as a cheap entry into profiling, it's genuinely unique.
 
 **Underrated:** Gaggiuino-modded Gaggia Classic Pro. Total cost ~$800 for a machine with pressure profiling and dual PID. For tinkerers only, but the community project is genuinely exceptional.
 
