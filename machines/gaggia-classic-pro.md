@@ -1,8 +1,15 @@
 # Gaggia Classic Pro
 
-![Gaggia Classic Pro](https://www.amazon.com/Gaggia-RI9380-46-Espresso-Stainless/dp/B07RQ3NL76)
+![Gaggia Classic Pro](../images/gaggia-classic-pro.png)
 
 > The cheapest way into a real 58mm commercial portafilter. Underpowered from the factory, but infinitely moddable, and a 30-year-old design that still works.
+
+## Where to buy
+
+- [Whole Latte Love](https://www.wholelattelove.com/products/gaggia-classic-e24)
+- [Seattle Coffee Gear](https://www.seattlecoffeegear.com/)
+- [Clive Coffee](https://clivecoffee.com/)
+- [Amazon](https://www.amazon.com/Gaggia-RI9380-46-Espresso-Stainless/dp/B07RQ3NL76) — often cheapest
 
 ## Quick facts
 
@@ -101,10 +108,3 @@ A modded Classic can genuinely compete with prosumer single boilers. It still ca
 Someone who wants to learn espresso from the ground up, enjoys tinkering, and is happy to treat the machine as a project rather than an appliance. Also: someone on a strict budget who plans to either stay here long-term (acceptable with PID + wand mods) or use this as a 1-2 year learning platform before upgrading.
 
 **Not** for you if you want your daily workflow to feel easy from day one. For an even-split milk/espresso user who values workflow, the Classic is a worse daily driver than a sub-$1500 HX.
-
-## Where to buy
-
-- [Whole Latte Love](https://www.wholelattelove.com/products/gaggia-classic-e24)
-- [Seattle Coffee Gear](https://www.seattlecoffeegear.com/)
-- [Clive Coffee](https://clivecoffee.com/)
-- [Amazon](https://www.amazon.com/Gaggia-RI9380-46-Espresso-Stainless/dp/B07RQ3NL76) — often cheapest

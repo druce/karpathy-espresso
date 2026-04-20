@@ -4,6 +4,13 @@
 
 > One-sentence positioning: what this machine is and who it serves.
 
+## Where to buy
+
+- [Whole Latte Love](url)
+- [Clive Coffee](url)
+- [Seattle Coffee Gear](url)
+- [Amazon](url) _(if applicable)_
+
 ## Quick facts
 
 | | |
@@ -74,10 +81,3 @@
 ## Who it's for
 
 [One paragraph: what kind of user should buy this, and what kind should look elsewhere]
-
-## Where to buy
-
-- [Whole Latte Love](url)
-- [Clive Coffee](url)
-- [Seattle Coffee Gear](url)
-- [Amazon](url) _(if applicable)_

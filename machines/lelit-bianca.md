@@ -1,8 +1,14 @@
 # Lelit Bianca (V3)
 
-![Lelit Bianca V3](https://www.lelit.com/en-us/product/bianca-pesbn03)
+![Lelit Bianca V3](../images/lelit-bianca.jpg)
 
 > The flow control canon. An E61 dual boiler with a paddle-controlled needle valve in the group head, the most accessible "pressure/flow profiling" experience money can buy, at $3,000. V3 (2024-2026) adds programmable electronic low-flow modes and refreshed finishes.
+
+## Where to buy
+
+- [Clive Coffee](https://clivecoffee.com/products/lelit-bianca-dual-boiler-espresso-machine) — often sold out but standard retailer
+- [Whole Latte Love](https://www.wholelattelove.com/products/lelit-bianca-v3-dual-boiler-espresso-machine)
+- [Chris' Coffee](https://www.chriscoffee.com/products/lelit-bianca-dual-boiler-espresso-machine)
 
 ## Quick facts
 
@@ -135,9 +141,3 @@ For light-roast drinkers and experimenters, the Bianca is probably the best valu
 **Not** for you if you just want to make espresso and don't want another variable to manage (go Synchronika or Elizabeth). Not for you if you want software-defined profiling with data logging (go Decent).
 
 For an even milk/espresso user with $3,000 budget: **the best single pick at this price if you're curious about flow control**. If you're not, the Synchronika is a more "buy-and-forget" experience, or the Elizabeth at $1,200 less covers 85% of the non-paddle workflow.
-
-## Where to buy
-
-- [Clive Coffee](https://clivecoffee.com/products/lelit-bianca-dual-boiler-espresso-machine) — often sold out but standard retailer
-- [Whole Latte Love](https://www.wholelattelove.com/products/lelit-bianca-v3-dual-boiler-espresso-machine)
-- [Chris' Coffee](https://www.chriscoffee.com/products/lelit-bianca-dual-boiler-espresso-machine)

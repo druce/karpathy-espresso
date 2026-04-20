@@ -1,8 +1,14 @@
 # Profitec Pro 400
 
-![Profitec Pro 400](https://www.wholelattelove.com/products/profitec-pro-400-espresso-machine)
+![Profitec Pro 400](../images/profitec-pro-400.jpg)
 
 > German-engineered E61 HX at the entry-prosumer price point. Three preset brew temperatures via PID, compact footprint, flow-control-ready. The quiet value pick in the $1,500-$2,000 HX bracket.
+
+## Where to buy
+
+- [Clive Coffee](https://clivecoffee.com/products/profitec-400-espresso-machine)
+- [Whole Latte Love](https://www.wholelattelove.com/products/profitec-pro-400-espresso-machine)
+- [Home Coffee Solutions](https://www.homecoffeesolutions.com/products/profitec-pro-400-heat-exchanger-espresso-machine-with-e61-group-head-pid-temperature-control-black)
 
 ## Quick facts
 
@@ -107,9 +113,3 @@ Strong. The Pro 400 shares parts with the rest of the Profitec E61 line (Pro 500
 HX buyers who prefer the German/Italian Profitec aesthetic and build over the Lelit or Rocket options, are OK with three preset temperatures (vs per-degree), and want a clear upgrade path to flow control via the FCD kit. Also: someone who plans to eventually upgrade to a Pro 600 or Pro 700 — the 400 is a familiar stepping stone.
 
 **Not** for you if you want per-degree PID (Mara X has three presets too; Classika has per-degree but is single-boiler; Elizabeth has per-degree and is DB). At $1,699 the Mara X's workflow (less flushing thanks to dual-sensor PID) is arguably more refined, though the Pro 400's build quality is a small step up.
-
-## Where to buy
-
-- [Clive Coffee](https://clivecoffee.com/products/profitec-400-espresso-machine)
-- [Whole Latte Love](https://www.wholelattelove.com/products/profitec-pro-400-espresso-machine)
-- [Home Coffee Solutions](https://www.homecoffeesolutions.com/products/profitec-pro-400-heat-exchanger-espresso-machine-with-e61-group-head-pid-temperature-control-black)

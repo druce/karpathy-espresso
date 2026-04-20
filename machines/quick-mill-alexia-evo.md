@@ -1,8 +1,15 @@
 # Quick Mill Alexia Evo
 
-![Quick Mill Alexia Evo](https://comisocoffee.com/products/quick-mill-alexia-evo-espresso-machine)
+![Quick Mill Alexia Evo](../images/quick-mill-alexia-evo.jpg)
 
 > The cheapest E61 on this list at $1,550, and a legitimate commercial-grade single boiler. Quick Mill's espresso-purist answer to the Profitec Go and Lelit Anna, with a full E61 group and PID.
+
+## Where to buy
+
+- [Comiso Coffee](https://comisocoffee.com/products/quick-mill-alexia-evo-espresso-machine)
+- [1st-line.com](https://www.1stincoffee.com/quickmill-alexia.htm) — Quick Mill specialist
+- [Espresso Outlet](https://espressooutlet.net/)
+- [My Espresso Shop](https://www.myespressoshop.com/)
 
 ## Quick facts
 
@@ -121,10 +128,3 @@ Espresso-first buyers who want real E61 workflow in a single-boiler footprint an
 **Not** for you if milk drinks are half or more of your cups — the single-boiler serial workflow will frustrate. The ECM Classika PID ($1,699) is the closest peer and is also single-boiler E61; pick by brand preference and retailer availability.
 
 For an even milk/espresso user: not the right architecture for your workflow. Consider the Mara X ($1,699, true HX) instead at the same price band.
-
-## Where to buy
-
-- [Comiso Coffee](https://comisocoffee.com/products/quick-mill-alexia-evo-espresso-machine)
-- [1st-line.com](https://www.1stincoffee.com/quickmill-alexia.htm) — Quick Mill specialist
-- [Espresso Outlet](https://espressooutlet.net/)
-- [My Espresso Shop](https://www.myespressoshop.com/)

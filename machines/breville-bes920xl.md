@@ -1,8 +1,15 @@
 # Breville Dual Boiler (BES920XL)
 
-![Breville BES920XL](https://www.wholelattelove.com/products/breville-bes920xl-dual-boiler-espresso-machine)
+![Breville BES920XL](../images/breville-bes920xl.jpg)
 
 > The best-selling dual boiler in the US at $1,600. Programmable pre-infusion, dual PID, 58mm portafilter, modular enough for the Slayer Mod. The approachable DB. Less hand-built than the Italians, but much more feature-rich per dollar.
+
+## Where to buy
+
+- [Whole Latte Love](https://www.wholelattelove.com/products/breville-bes920xl-dual-boiler-espresso-machine)
+- [Amazon](https://www.amazon.com/Breville-BES920XL-Boiler-Espresso-Machine/dp/B00I6JGGP0)
+- [Prima Coffee](https://prima-coffee.com/equipment/breville/bes920xl-brevi-sp)
+- [Williams-Sonoma, Best Buy, Bed Bath & Beyond](https://www.williams-sonoma.com/) — consumer retailer availability
 
 ## Quick facts
 
@@ -117,10 +124,3 @@ The best first dual boiler for someone coming from an entry single boiler who wa
 **Not** for you if you want the hand-assembled Italian build quality, E61 or saturated group ecosystem, or rotary-pump silence. For the same $1,600 you could have a Lelit Mara X (HX with better build quality and simultaneous brew+steam) — but the Breville has DB workflow advantages. Different tradeoff.
 
 For an even milk/espresso user transitioning to DB, this is the "approachable" pick. If you want more premium feel at the same price, stretch to the Pro 300 ($1,800) or Elizabeth ($1,800).
-
-## Where to buy
-
-- [Whole Latte Love](https://www.wholelattelove.com/products/breville-bes920xl-dual-boiler-espresso-machine)
-- [Amazon](https://www.amazon.com/Breville-BES920XL-Boiler-Espresso-Machine/dp/B00I6JGGP0)
-- [Prima Coffee](https://prima-coffee.com/equipment/breville/bes920xl-brevi-sp)
-- [Williams-Sonoma, Best Buy, Bed Bath & Beyond](https://www.williams-sonoma.com/) — consumer retailer availability

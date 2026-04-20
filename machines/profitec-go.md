@@ -1,8 +1,14 @@
 # Profitec Go
 
-![Profitec Go](https://www.profitec-espresso.com/en/products/go)
+![Profitec Go](../images/profitec-go.jpg)
 
 > A premium single boiler with rotary pump, PID, and polished-stainless build at $1,200. The single boiler with the best build quality on this list — and the hardest value proposition to justify against HX machines $300 away.
+
+## Where to buy
+
+- [Whole Latte Love](https://www.wholelattelove.com/products/profitec-go-espresso-machine)
+- [Clive Coffee](https://clivecoffee.com/)
+- [Seattle Coffee Gear](https://www.seattlecoffeegear.com/)
 
 ## Quick facts
 
@@ -105,9 +111,3 @@ No flow control kits, no open-source alternatives. This is an appliance, not a p
 Someone who wants the quietest, best-built single boiler money can buy, values polished stainless and rotary pump over the full feature set of an HX, and does mostly solo espresso with occasional milk. Also: someone with strict space constraints (the 8.3-inch width is the narrowest of any prosumer here) who really doesn't want to step up to HX/DB footprint.
 
 **Not** for you if you value simultaneous brew+steam, mechanical pre-infusion, or back-to-back milk drinks. For an even-split milk/espresso user, the Go's workflow is not meaningfully different from the Anna at 40% the price, and the HX tier (Mara X, Appartamento) is a better destination for the budget.
-
-## Where to buy
-
-- [Whole Latte Love](https://www.wholelattelove.com/products/profitec-go-espresso-machine)
-- [Clive Coffee](https://clivecoffee.com/)
-- [Seattle Coffee Gear](https://www.seattlecoffeegear.com/)

@@ -1,8 +1,16 @@
 # Quick Mill QM67 Evo
 
-![Quick Mill QM67 Evo](https://www.chriscoffee.com/products/quick-mill-qm67-evo)
+![Quick Mill QM67 Evo](../images/quick-mill-qm67-evo.png)
 
 > Quick Mill's flagship compact E61 dual boiler. Independent dual PID, 58mm E61, integrated shot timer, Italian build. The "compact DB" value pick that flies under the Profitec/ECM radar.
+
+## Where to buy
+
+- [Chris' Coffee](https://www.chriscoffee.com/products/quick-mill-qm67-evo) — standard retailer with 2-year warranty
+- [Comiso Coffee](https://comisocoffee.com/products/quick-mill-qm-67-evo-espresso-machine) — often cheapest
+- [Coffeeionado](https://coffeeionado.com/) — free shipping, 2-year warranty
+- [Bendix Coffee Roasters](https://bendixcoffee.com/)
+- [My Espresso Shop](https://www.myespressoshop.com/)
 
 ## Quick facts
 
@@ -115,11 +123,3 @@ Someone with **cabinet clearance of at least 16.5 inches** who wants a compact I
 **Not** for you if your under-cabinet clearance is 16 inches or less — the QM67 Evo will not fit flush under most US standard cabinets. This is a binary constraint; no amount of feature quality compensates. In that case: **Profitec Pro 600 (15.6 in)**, **Profitec Ride (14.6 in)**, or **Lelit Bianca V3 (15.75 in)** are the fit-friendly alternatives.
 
 If clearance is not a constraint, the QM67 is genuinely competitive with the Pro 600 at a slightly lower street price. Chris' Coffee's 2-year warranty is a real plus.
-
-## Where to buy
-
-- [Chris' Coffee](https://www.chriscoffee.com/products/quick-mill-qm67-evo) — standard retailer with 2-year warranty
-- [Comiso Coffee](https://comisocoffee.com/products/quick-mill-qm-67-evo-espresso-machine) — often cheapest
-- [Coffeeionado](https://coffeeionado.com/) — free shipping, 2-year warranty
-- [Bendix Coffee Roasters](https://bendixcoffee.com/)
-- [My Espresso Shop](https://www.myespressoshop.com/)

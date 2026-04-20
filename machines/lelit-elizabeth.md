@@ -1,8 +1,15 @@
 # Lelit Elizabeth (PL92T V3)
 
-![Lelit Elizabeth](https://clivecoffee.com/products/lelit-elizabeth-dual-boiler-espresso-machine)
+![Lelit Elizabeth](../images/lelit-elizabeth.jpg)
 
 > The value DB champion. A saturated-group dual boiler with programmable pre-infusion, three shot buttons, and dual PID, at $1,800. The V3 (2024-2026) adds a quieter pump and makes this the default "first real DB" recommendation.
+
+## Where to buy
+
+- [Clive Coffee](https://clivecoffee.com/products/lelit-elizabeth-dual-boiler-espresso-machine)
+- [Whole Latte Love](https://www.wholelattelove.com/products/lelit-elizabeth-espresso-machine)
+- [My Espresso Shop — PL92T V3](https://www.myespressoshop.com/products/lelit-pl92t-elizabeth-v2-double-boiler-espresso-machine)
+- [Consiglio's Kitchenware](https://www.consiglioskitchenware.com/products/lelit-elizabeth)
 
 ## Quick facts
 
@@ -121,10 +128,3 @@ Also: someone who wants a DB in the smallest possible footprint — the Elizabet
 **Not** for you if you specifically want E61 group aesthetics/workflow (step to Pro 600), paddle flow control (Bianca), or a larger steam boiler for heavy milk routines (Pro 600 or Synchronika).
 
 For this user's use case: **this is the top single recommendation if the budget sweet spot is ~$1,800-2,000.** Strong feature density, strong community, compact, and the V3 is a refined mature product.
-
-## Where to buy
-
-- [Clive Coffee](https://clivecoffee.com/products/lelit-elizabeth-dual-boiler-espresso-machine)
-- [Whole Latte Love](https://www.wholelattelove.com/products/lelit-elizabeth-espresso-machine)
-- [My Espresso Shop — PL92T V3](https://www.myespressoshop.com/products/lelit-pl92t-elizabeth-v2-double-boiler-espresso-machine)
-- [Consiglio's Kitchenware](https://www.consiglioskitchenware.com/products/lelit-elizabeth)

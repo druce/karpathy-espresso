@@ -31,10 +31,11 @@ Everything else on this list either costs more for less (Synchronika, Mozzafiato
 **Buy carefully.** This is the most confusing price band because:
 
 - [Profitec Go](machines/profitec-go.md) ($1,199) is the best-built single boiler money can buy — but it's still a single boiler, and $500 more buys a full HX.
+- [Quick Mill Alexia Evo](machines/quick-mill-alexia-evo.md) ($1,550) is the cheapest E61 machine on this list. Single boiler with E61 + PID + mechanical pre-infusion + FCD kit compatibility. Add the flow control kit later ($300-400) and you have a serious espresso-focused workflow under $2,000.
 - [Lelit Mara X](machines/lelit-mara-x.md) ($1,699) is an HX with simultaneous brew and steam, which is a material workflow upgrade.
 - [Profitec Pro 400](machines/profitec-pro-400.md) ($1,699) is an E61 HX, peer to the Mara X, different build philosophy.
 
-**Recommendation:** Skip the $1,200 single-boiler bracket. Save another $500 and jump to HX or DB — the workflow difference is real and will be felt every morning. The Profitec Go is beautifully built but does the same daily dance as the Anna at double the price.
+**Recommendation:** Skip the $1,200 single-boiler bracket unless you specifically want the Alexia Evo's E61-upgrade-path. If milk drinks matter, save another $150 and jump to Mara X or Pro 400 — the workflow difference (simultaneous brew+steam) is felt every morning. The Profitec Go is beautifully built but does the same daily dance as the Anna at double the price.
 
 ### $1,700-2,000: The HX/entry-DB crossroads
 
@@ -46,17 +47,25 @@ This is where most buyers should land.
 
 **E61 enthusiast alternative:** [Profitec Pro 400](machines/profitec-pro-400.md) at $1,699 — full E61 with mechanical pre-infusion, German build, FCD kit upgrade path.
 
+**New Profitec DB option:** [Profitec Move](machines/profitec-move.md) at $1,999. Successor to the Pro 300 with a refreshed OLED interface, shot timer, and programmable volumetrics. Saturated-group dual boiler architecture, so direct peer to Elizabeth — the Move has newer hardware/UI and Profitec's build premium; the Elizabeth has deeper programmability (LCC) and saves $200. Close call; pick by brand preference and feature priority. The Move does **not** accept E61 flow control kits.
+
+**Big-boiler HX alternative:** [Quick Mill Andreja Premium Evo](machines/quick-mill-andreja-premium-evo.md) at $1,850. Largest HX boiler on this list (1.8 L brass), utilitarian build, swivel no-burn wand. **But: 16" height — borderline under a standard US cabinet, measure carefully.** Only buy if your clearance is confirmed and you like no-nonsense utilitarian machines.
+
 **Skip:** [Rocket Appartamento](machines/rocket-appartamento.md) at $1,850-2,050 — beautiful machine but no stock PID at a price where Mara X has one. The Appartamento TCA addresses this but costs more. The Italian aesthetic doesn't justify losing PID.
 
 **Skip:** [Breville BES920XL](machines/breville-bes920xl.md) at $1,599 unless you specifically want the Slayer Mod pathway or the consumer-friendly interface. Build quality is below the Italian/German options at this price.
 
-**Skip:** [Profitec Pro 300](machines/profitec-pro-300.md) at $1,799-1,929 — being phased out for the Profitec Move; the Elizabeth is a direct peer and more current.
+**Skip:** [Profitec Pro 300](machines/profitec-pro-300.md) at $1,799-1,929 — being phased out for the Profitec Move; if you want Profitec's saturated-group architecture, buy the Move instead.
 
 ### $2,400-2,800: The E61 DB bracket
 
-**Pick:** [Profitec Pro 600](machines/profitec-pro-600.md) at $2,399. Full E61 group, dual independent PID, stock mechanical pre-infusion, 1.0 L steam boiler, offset quick-steam arms. Upgrade path to flow control via the FCD kit (~$300-400 additional).
+**New-production pick:** [Profitec Ride](machines/profitec-ride.md) at $2,599. The 2024-2025 successor to the Pro 600 — same dual boiler architecture, E61 group, FCD kit compatibility, plus simultaneous boiler heating (cuts warmup to ~8-10 min), OLED PID display, programmable volumetrics, and 3-year Clive Coffee warranty. If you're buying in 2026+, buy the Ride over the Pro 600.
 
-Honest assessment: the Pro 600 costs $600 more than the Elizabeth and the marginal benefits are (a) E61 group aesthetics, (b) mechanical vs electronic pre-infusion, (c) larger steam boiler, (d) factory-engineered flow control upgrade path. These matter to some buyers and don't to others.
+**Still-available Pro 600:** [Profitec Pro 600](machines/profitec-pro-600.md) at $2,399 while stock lasts. Phase-out in progress; limited new inventory. Same feature set as the Ride minus the OLED interface, programmable volumetrics, and simultaneous boiler heating. Buy only if you find it discounted below Ride pricing.
+
+**Italian value alternative:** [Quick Mill QM67 Evo](machines/quick-mill-qm67-evo.md) at $2,395-2,495. Compact Italian-built E61 DB with dual independent PID, integrated shot timer, two pressure gauges, and Chris' Coffee's 2-year warranty. **Critical caveat: 16.25" height exceeds the 16" under-cabinet clearance.** Do not buy unless your cabinet clearance is confirmed above 16.5".
+
+Honest assessment: the Ride costs $800 more than the Elizabeth and the marginal benefits are (a) E61 group aesthetics, (b) mechanical pre-infusion via E61, (c) slightly larger steam boiler (1.0 L vs 0.6 L), (d) factory-engineered FCD flow control upgrade path, (e) programmable volumetrics + OLED interface. These matter to some buyers; the Elizabeth covers the same daily workflow at $800 less.
 
 ### $3,000-3,700: The ceiling tier
 
@@ -126,6 +135,8 @@ For a standard US kitchen without existing plumbing, retrofitting a water line u
 
 **Underrated:** ECM Classika PID + flow control. Single boiler workflow limits milk, but the per-degree PID, E61, and flow control bundle is better espresso-workflow than machines costing twice as much.
 
+**Underrated:** Quick Mill Alexia Evo. The cheapest E61 on this list ($1,550) is still a commercial-grade single boiler with full E61 flow control kit compatibility. For espresso-purist buyers under $2,000, it outpoints the Silvia and Profitec Go on features per dollar. Smaller US retailer presence keeps it less visible than it deserves.
+
 **Underrated:** Gaggiuino-modded Gaggia Classic Pro. Total cost ~$800 for a machine with pressure profiling and dual PID. For tinkerers only, but the community project is genuinely exceptional.
 
 **Underrated:** Breville Bambino Plus for second-household-member use. If someone in the house wants auto-steaming while you want a prosumer workflow, the Bambino Plus at $400 is a great secondary.
@@ -136,7 +147,7 @@ For a standard US kitchen without existing plumbing, retrofitting a water line u
 2. **Milk drinks are more than 50% of your cups AND you make 3+ drinks per session?** → Dual boiler with ≥1 L steam boiler. Pro 600, Synchronika, Bianca.
 3. **Interested in light-roast espresso or shot-profile experimentation?** → Flow control. Bianca for mechanical, Decent for software, or any E61 DB with FCD retrofit.
 4. **Counter depth under 17 inches?** → Lelit Elizabeth, Profitec Go, Bambino Plus, Lelit Anna.
-5. **Height clearance under 15.5 inches?** → Skip Synchronika, Bianca, Mozzafiato R, Classika. Most others fit.
+5. **Height clearance exactly 16 inches or less?** → Skip **Quick Mill QM67 Evo (16.25")**, **ECM Synchronika II (~16.3")**, and be careful with **Quick Mill Andreja Premium Evo (16.0")** and **Lelit Bianca V3 (15.75")**. Most other machines fit.
 
 ## The pick if someone held a gun to my head
 

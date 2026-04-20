@@ -1,8 +1,14 @@
 # Rancilio Silvia (M V6)
 
-![Rancilio Silvia](https://www.amazon.com/Rancilio-Silvia-Espresso-Machine-White/dp/B0BFKJKCR4)
+![Rancilio Silvia](../images/rancilio-silvia.jpg)
 
 > The legendary commercial-grade single boiler that hasn't meaningfully changed since 1998. Overpriced at MSRP, underrated when caught on sale, and the machine that taught a generation of home baristas how to make espresso.
+
+## Where to buy
+
+- [Whole Latte Love](https://www.wholelattelove.com/products/rancilio-silvia)
+- [Seattle Coffee Gear](https://www.seattlecoffeegear.com/)
+- [Amazon](https://www.amazon.com/Rancilio-Silvia-Espresso-Machine-White/dp/B0BFKJKCR4)
 
 ## Quick facts
 
@@ -104,9 +110,3 @@ Compared to Gaggia, Silvia mods are more conservative — no open-source full-re
 Someone who wants a commercial-quality boiler and wand in their home, is comfortable with a deliberate workflow, and values build longevity over features. Also: a nostalgic or brand-loyal buyer — the Silvia's reputation is deserved, even if the value proposition has narrowed.
 
 **Not** for you if you want features out of the box — the Lelit Anna PID is a better beginner experience at 60% of the price. For an even-split milk/espresso user, the Silvia single-boiler workflow is the same constraint as the Gaggia: comfortable for one drink, annoying for two. Consider Silvia only if you're committed to the all-metal build and plan to add PID immediately.
-
-## Where to buy
-
-- [Whole Latte Love](https://www.wholelattelove.com/products/rancilio-silvia)
-- [Seattle Coffee Gear](https://www.seattlecoffeegear.com/)
-- [Amazon](https://www.amazon.com/Rancilio-Silvia-Espresso-Machine-White/dp/B0BFKJKCR4)

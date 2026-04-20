@@ -1,8 +1,14 @@
 # ECM Synchronika (II)
 
-![ECM Synchronika II](https://www.ecm.de/en/products/synchronika-ii/)
+![ECM Synchronika II](../images/ecm-synchronika.jpg)
 
 > The German flagship E61 dual boiler, now in its Synchronika II revision with cartridge-heater fast warmup. Build quality ceiling for traditional E61 DBs. At $3,600, competes directly with the Lelit Bianca (which adds paddle flow control at $600 less).
+
+## Where to buy
+
+- [Whole Latte Love](https://www.wholelattelove.com/products/ecm-synchronika-ii)
+- [Clive Coffee](https://clivecoffee.com/products/ecm-synchronika-ii-espresso-machine)
+- [Home Coffee Solutions](https://www.homecoffeesolutions.com/collections/ecm-synchronika-espresso-machines)
 
 ## Quick facts
 
@@ -116,9 +122,3 @@ The buyer who wants the best-built traditional E61 dual boiler and doesn't need 
 **Not** for you if flow control is important (go Bianca at $3,000 — identical category, $600 cheaper, paddle included). Not for you if you want software profiling (go Decent). Not for you on a tight budget — the Elizabeth covers the DB essentials at half the price.
 
 For an even milk/espresso user with $3,600 budget: the Synchronika is the "I want the best-built traditional DB and will forgo flow control" pick. If you prefer the paddle workflow, spend less and buy the Bianca.
-
-## Where to buy
-
-- [Whole Latte Love](https://www.wholelattelove.com/products/ecm-synchronika-ii)
-- [Clive Coffee](https://clivecoffee.com/products/ecm-synchronika-ii-espresso-machine)
-- [Home Coffee Solutions](https://www.homecoffeesolutions.com/collections/ecm-synchronika-espresso-machines)

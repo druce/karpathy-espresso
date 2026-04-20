@@ -1,8 +1,15 @@
 # Lelit Anna PL41TEM (PID)
 
-![Lelit Anna](https://www.lelit.com/product/anna-pl41tem/)
+![Lelit Anna](../images/lelit-anna.jpg)
 
 > The quiet best-value in the entry prosumer single-boiler category. A real PID, real manometer, real Italian build, for under $700. The catch: 57mm portafilter ecosystem.
+
+## Where to buy
+
+- [Whole Latte Love](https://www.wholelattelove.com/products/lelit-anna-espresso-machine)
+- [Seattle Coffee Gear](https://www.seattlecoffeegear.com/)
+- [Prima Coffee Equipment](https://prima-coffee.com/)
+- [Blue Bottle Coffee](https://bluebottlecoffee.com/) — carries US variant PL41TEM-120
 
 ## Quick facts
 
@@ -108,10 +115,3 @@ First real espresso machine for someone who wants stock features (PID, manometer
 **Not** for you if you want 58mm ecosystem access from day one (consider Silvia + PID kit or Gaggia Classic Pro + mods for 58mm) or if you want simultaneous brew+steam (jump to HX or DB).
 
 For an even milk/espresso user on a tight budget, the Anna is the best single-boiler pick on this wiki. But: if you can stretch to an HX, the workflow upgrade is substantial and probably worth the $800-$1000 delta.
-
-## Where to buy
-
-- [Whole Latte Love](https://www.wholelattelove.com/products/lelit-anna-espresso-machine)
-- [Seattle Coffee Gear](https://www.seattlecoffeegear.com/)
-- [Prima Coffee Equipment](https://prima-coffee.com/)
-- [Blue Bottle Coffee](https://bluebottlecoffee.com/) — carries US variant PL41TEM-120

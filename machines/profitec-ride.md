@@ -1,8 +1,13 @@
 # Profitec Ride
 
-![Profitec Ride](https://clivecoffee.com/products/profitec-ride-espresso-machine)
+![Profitec Ride](../images/profitec-ride.jpg)
 
 > Profitec's 2024-2025 successor to the Pro 600. Same E61 dual boiler architecture with a redesigned case, simultaneous boiler heating, and OLED PID controls. The "modernized Pro 600" for buyers who want current production and a 3-year warranty.
+
+## Where to buy
+
+- [Clive Coffee](https://clivecoffee.com/products/profitec-ride-espresso-machine)
+- [Whole Latte Love](https://www.wholelattelove.com/products/profitec-ride-espresso-machine)
 
 ## Quick facts
 
@@ -113,8 +118,3 @@ Someone who wants the Pro 600's feature set in Profitec's current production lin
 **Not** for you if you already have a Pro 600 — the Ride is an incremental upgrade, not a transformative one. If you want rotary + plumbable + flow control factory, step up to the Profitec Pro 700 (~$3,600-3,800) or the Synchronika.
 
 For an even milk/espresso user at the $2,500-2,700 budget, the Ride is a reasonable pick. The **Elizabeth** at $1,799 still wins the pure value argument, and the **Bianca** at $2,999 adds paddle flow control. The Ride sits between them as the "modernized E61 DB" option.
-
-## Where to buy
-
-- [Clive Coffee](https://clivecoffee.com/products/profitec-ride-espresso-machine)
-- [Whole Latte Love](https://www.wholelattelove.com/products/profitec-ride-espresso-machine)

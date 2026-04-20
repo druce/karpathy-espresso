@@ -1,8 +1,15 @@
 # Profitec Pro 600
 
-![Profitec Pro 600](https://www.wholelattelove.com/products/profitec-pro-600-dual-boiler-espresso-machine)
+![Profitec Pro 600](../images/profitec-pro-600.jpg)
 
 > The "mid-tier" Profitec E61 dual boiler. Larger steam boiler than the Pro 300/Elizabeth, full E61 group, flow-control-ready via Profitec's FCD kit. Being phased out for the Profitec Ride — inventory status matters.
+
+## Where to buy
+
+- [Whole Latte Love](https://www.wholelattelove.com/products/profitec-pro-600-dual-boiler-espresso-machine)
+- [Home Coffee Solutions](https://www.homecoffeesolutions.com/products/profitec-pro-600-dual-boiler) — often bundled with FCD kit
+- [Clive Coffee](https://clivecoffee.com/) — transitioning to Profitec Ride but may still stock Pro 600
+- [iDrinkCoffee](https://idrinkcoffee.com/products/profitec-pro-600-dual-boiler) — Canadian retailer
 
 ## Quick facts
 
@@ -122,10 +129,3 @@ Someone who wants E61 aesthetics and workflow, values the stock mechanical pre-i
 **Not** for you if you want the lowest-price DB (go Elizabeth at $1,800), factory flow control (Bianca $3,000 or Decent $3,700), or a rotary pump (Pro 700 or Synchronika).
 
 For an even milk/espresso user at the $2,500 budget, the Pro 600 is a strong pick — especially if you plan to eventually add the FCD kit for profiling experimentation. If E61 doesn't matter to you, the Elizabeth at $1,800 covers most of the same ground.
-
-## Where to buy
-
-- [Whole Latte Love](https://www.wholelattelove.com/products/profitec-pro-600-dual-boiler-espresso-machine)
-- [Home Coffee Solutions](https://www.homecoffeesolutions.com/products/profitec-pro-600-dual-boiler) — often bundled with FCD kit
-- [Clive Coffee](https://clivecoffee.com/) — transitioning to Profitec Ride but may still stock Pro 600
-- [iDrinkCoffee](https://idrinkcoffee.com/products/profitec-pro-600-dual-boiler) — Canadian retailer

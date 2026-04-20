@@ -1,8 +1,14 @@
 # Rocket Mozzafiato Evoluzione R
 
-![Rocket Mozzafiato Evoluzione R](https://www.seattlecoffeegear.com/products/rocket-espresso-mozzafiato-timer-evoluzione-r-espresso-machine)
+![Rocket Mozzafiato Evoluzione R](../images/rocket-mozzafiato-r.jpg)
 
 > Full-size Rocket E61 HX with a rotary pump and PID. Near-silent operation, 1.8 L copper boiler, plumbable. The most premium HX on this list, and it competes in price with several dual boilers.
+
+## Where to buy
+
+- [Seattle Coffee Gear](https://www.seattlecoffeegear.com/products/rocket-espresso-mozzafiato-timer-evoluzione-r-espresso-machine)
+- [Whole Latte Love](https://www.wholelattelove.com/products/rocket-espresso-mozzafiato-evoluzione-r)
+- [Home Coffee Solutions](https://www.homecoffeesolutions.com/products/rocket-mozzafiato-evoluzione-r-espresso-machine-with-pid-temperature-control)
 
 ## Quick facts
 
@@ -110,9 +116,3 @@ Someone who specifically wants the Rocket look and rotary pump experience, prefe
 **Not** for you if you're comparing on features-per-dollar. At $3,100 the Lelit Bianca V3 ($3,000) is a dual boiler with paddle flow control, or the ECM Synchronika ($3,600) is a flagship DB. The Mozzafiato R's HX architecture at this price is a lifestyle choice, not a spec-driven one.
 
 For an even milk/espresso user with a $3,000 budget, the DB tier (Elizabeth, Pro 600, Bianca) arguably dominates this machine on pure workflow. Buy the Mozzafiato if you specifically want the HX simplicity and the rotary-pump-plumbable setup.
-
-## Where to buy
-
-- [Seattle Coffee Gear](https://www.seattlecoffeegear.com/products/rocket-espresso-mozzafiato-timer-evoluzione-r-espresso-machine)
-- [Whole Latte Love](https://www.wholelattelove.com/products/rocket-espresso-mozzafiato-evoluzione-r)
-- [Home Coffee Solutions](https://www.homecoffeesolutions.com/products/rocket-mozzafiato-evoluzione-r-espresso-machine-with-pid-temperature-control)

@@ -1,8 +1,14 @@
 # Profitec Pro 300
 
-![Profitec Pro 300](https://www.wholelattelove.com/products/profitec-pro-300-dual-boiler-espresso-machine)
+![Profitec Pro 300](../images/profitec-pro-300.jpg)
 
 > Compact dual boiler with saturated group and fast warmup. The "small-footprint serious DB" pick. Being phased out in favor of the Profitec Move in 2025-2026; inventory is limited.
+
+## Where to buy
+
+- [Whole Latte Love](https://www.wholelattelove.com/products/profitec-pro-300-dual-boiler-espresso-machine)
+- [Clive Coffee — now carries Profitec Move](https://clivecoffee.com/) — may still stock Pro 300
+- [eBay](https://www.ebay.com/) — used and reseller listings for Pro 300 specifically
 
 ## Quick facts
 
@@ -109,9 +115,3 @@ Someone who wants the saturated-group temperature stability of a Lelit Elizabeth
 **Not** for you if you want E61 workflow (step up to Pro 400 HX or Pro 600 DB), larger steam capacity for heavy milk (step up to Pro 600 or Synchronika), or the latest model (consider the Profitec Move).
 
 For an even milk/espresso user at the $1,800 price point, the Pro 300 is a strong pick if you can confirm availability. The Lelit Elizabeth at the same price is a direct competitor with similar saturated-group architecture and LCC programmability.
-
-## Where to buy
-
-- [Whole Latte Love](https://www.wholelattelove.com/products/profitec-pro-300-dual-boiler-espresso-machine)
-- [Clive Coffee — now carries Profitec Move](https://clivecoffee.com/) — may still stock Pro 300
-- [eBay](https://www.ebay.com/) — used and reseller listings for Pro 300 specifically

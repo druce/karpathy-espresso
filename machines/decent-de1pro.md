@@ -1,8 +1,14 @@
 # Decent DE1Pro
 
-![Decent DE1Pro](https://decentespresso.com/de1pro)
+![Decent DE1Pro](../images/decent-de1pro.jpg)
 
 > The software-defined outlier. A boilerless flash-heater espresso machine with a 7" touchscreen, real-time pressure/flow/temperature profiling, and a firmware-upgradable ecosystem. Makes every traditional DB look mechanical by comparison.
+
+## Where to buy
+
+- [Decent Espresso — direct only](https://decentespresso.com/de1pro) — no third-party retailers; Decent ships worldwide with country-specific voltage
+- Configure color, voltage, and accessories at purchase
+- [Visualizer.coffee](https://visualizer.coffee) — community profile library (free tier available)
 
 ## Quick facts
 
@@ -128,9 +134,3 @@ The engineer, the scientist, the experimenter. Someone who finds joy in data, pr
 **Not** for you if you want to just make espresso and enjoy it without thinking. Not for you if milk drinks are the primary use case (steam is adequate, not exceptional). Not for you if you want third-party retailer relationships or traditional-machine community.
 
 For an even milk/espresso user with $3,700 budget: the Decent is the right buy **if and only if** you're energized by the idea of learning a new interface and iterating on shot profiles. The espresso side will be exceptional; the milk side will be adequate. If adequate isn't enough, the Bianca at $3,000 is a better milk machine (and still has paddle flow control for most of the profiling fun).
-
-## Where to buy
-
-- [Decent Espresso — direct only](https://decentespresso.com/de1pro) — no third-party retailers; Decent ships worldwide with country-specific voltage
-- Configure color, voltage, and accessories at purchase
-- [Visualizer.coffee](https://visualizer.coffee) — community profile library (free tier available)

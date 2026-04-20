@@ -1,6 +1,6 @@
 # ECM Classika PID
 
-![ECM Classika PID](https://www.wholelattelove.com/products/ecm-classika-pid)
+![ECM Classika PID](../images/ecm-classika.jpg)
 
 > German engineering, Italian assembly, E61 group, Gicar PID — all in a compact single-boiler chassis. Best-in-class espresso experience for users who don't need simultaneous brew+steam.
 
@@ -9,6 +9,12 @@
 The Classika PID is commonly grouped with HX machines because it shares the E61 group head, pressure gauge, and prosumer price bracket. Strictly speaking it's a **single-boiler E61** (0.75 L boiler) and does **not** offer simultaneous brew+steam — the boiler serves one function at a time. Everything else about the ownership experience — E61 pre-infusion, compatible flow control kits, mod ecosystem — is HX-class, which is why it lands in this section with a clarifying note.
 
 If back-to-back milk drinks matter, step up to a true HX (Rocket Appartamento, Mara X, Profitec Pro 400) or any DB.
+
+## Where to buy
+
+- [Whole Latte Love](https://www.wholelattelove.com/products/ecm-classika-pid)
+- [Clive Coffee](https://clivecoffee.com/products/special-edition-ecm-classika-pid-espresso-machine)
+- [iDrinkCoffee](https://idrinkcoffee.com/products/ecm-classika-pid-espresso-machine) — Canadian retailer
 
 ## Quick facts
 
@@ -112,9 +118,3 @@ The Classika shares many parts with the ECM Mechanika and Synchronika lines, so 
 Espresso-first drinkers who value precise PID temperature control, E61 workflow, and long-term build quality more than simultaneous brew+steam. The Classika with flow control kit is arguably the best single-boiler-format espresso workflow available at any price — if you're making 1-2 drinks per session and don't need café speed.
 
 **Not** for you if milk drinks are a major part of your daily routine. For an even milk/espresso user, the Mara X at the same price handles the same espresso needs and adds simultaneous steaming — a material upgrade.
-
-## Where to buy
-
-- [Whole Latte Love](https://www.wholelattelove.com/products/ecm-classika-pid)
-- [Clive Coffee](https://clivecoffee.com/products/special-edition-ecm-classika-pid-espresso-machine)
-- [iDrinkCoffee](https://idrinkcoffee.com/products/ecm-classika-pid-espresso-machine) — Canadian retailer

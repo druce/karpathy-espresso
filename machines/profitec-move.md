@@ -1,8 +1,14 @@
 # Profitec Move
 
-![Profitec Move](https://www.wholelattelove.com/products/profitec-move-espresso-machine)
+![Profitec Move](../images/profitec-move.jpg)
 
 > Profitec's 2024-2025 successor to the Pro 300. Compact saturated-group dual boiler with new OLED PID, shot timer, and programmable volumetrics. The "espresso-first DB" under $2,000.
+
+## Where to buy
+
+- [Whole Latte Love](https://www.wholelattelove.com/products/profitec-move-espresso-machine)
+- [Clive Coffee](https://clivecoffee.com/products/profitec-move-espresso-machine)
+- [Di Pacci USA](https://dipacci.com/)
 
 ## Quick facts
 
@@ -115,9 +121,3 @@ Someone who wants a DB in the $2,000 range with current-year build quality and O
 **Not** for you if you want flow control (go Ride, Bianca, or Decent). Not for you if you make more than 2 milk drinks per session (the 0.75 L steam boiler is limiting; step to Pro 600/Ride).
 
 For an even milk/espresso user: the Move is a strong pick at $1,999, directly competitive with the Lelit Elizabeth ($1,799) which uses a similar architecture (saturated group dual boiler) at $200 less. **Elizabeth still wins on feature count per dollar** (programmable pre-infusion via LCC, three shot buttons, paddle-style LCC deep programmability), but the Move has newer interface and Profitec's slightly more premium build feel. Direct head-to-head pick, both excellent.
-
-## Where to buy
-
-- [Whole Latte Love](https://www.wholelattelove.com/products/profitec-move-espresso-machine)
-- [Clive Coffee](https://clivecoffee.com/products/profitec-move-espresso-machine)
-- [Di Pacci USA](https://dipacci.com/)

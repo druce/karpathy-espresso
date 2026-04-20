@@ -1,8 +1,15 @@
 # Lelit Mara X (PL62X V2)
 
-![Lelit Mara X](https://www.lelit.com/product/marax-pl62x/)
+![Lelit Mara X](../images/lelit-mara-x.jpg)
 
 > The best-selling HX in the $1,500-$2,000 category, and the reason: PID-managed thermosiphon that largely eliminates the cooling flush ritual. "An HX that behaves like a patient dual boiler."
+
+## Where to buy
+
+- [Clive Coffee](https://clivecoffee.com/products/lelit-mara-x-espresso-machine)
+- [Chris' Coffee](https://www.chriscoffee.com/products/lelit-mara-x)
+- [Comiso Coffee](https://comisocoffee.com/products/lelit-mara-x-v2-espresso-machine)
+- [Whole Latte Love](https://www.wholelattelove.com/products/lelit-mara-x-espresso-machine)
 
 ## Quick facts
 
@@ -118,10 +125,3 @@ The default HX recommendation for an even milk/espresso drinker with a $1,500-$2
 Also: someone who wants the Rocket Appartamento's experience but with a PID and $300 less — that's essentially what the Mara X is.
 
 **Not** for you if you want per-degree temperature control, stock flow control, or the full hand-built-in-Milan aesthetic (the Mara X is well-built but feels less artisanal than a Rocket). If those matter, step up to Elizabeth, Pro 600, or Bianca.
-
-## Where to buy
-
-- [Clive Coffee](https://clivecoffee.com/products/lelit-mara-x-espresso-machine)
-- [Chris' Coffee](https://www.chriscoffee.com/products/lelit-mara-x)
-- [Comiso Coffee](https://comisocoffee.com/products/lelit-mara-x-v2-espresso-machine)
-- [Whole Latte Love](https://www.wholelattelove.com/products/lelit-mara-x-espresso-machine)

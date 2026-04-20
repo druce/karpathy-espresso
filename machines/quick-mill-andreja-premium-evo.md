@@ -1,8 +1,16 @@
 # Quick Mill Andreja Premium Evo
 
-![Quick Mill Andreja Premium Evo](https://www.chriscoffee.com/products/quick-mill-andreja-premium-evo)
+![Quick Mill Andreja Premium Evo](../images/quick-mill-andreja-premium-evo.jpg)
 
 > A long-running commercial-grade E61 HX that's been in production in various iterations since the 2000s. Still sold in its "Evo" refresh in 2026. The "no-gimmicks prosumer HX" — serious 1.8 L boiler, rock-solid E61, honest utilitarian build.
+
+## Where to buy
+
+- [Chris' Coffee](https://www.chriscoffee.com/products/quick-mill-andreja-premium-evo)
+- [Espresso Outlet](https://espressooutlet.net/)
+- [Coffeeionado](https://coffeeionado.com/) — 2-year warranty standard
+- [1st-line.com](https://www.1stincoffee.com/) — Quick Mill specialist
+- [Whole Latte Love](https://www.wholelattelove.com/products/quick-mill-andreja-premium)
 
 ## Quick facts
 
@@ -117,11 +125,3 @@ Someone who wants a commercial-grade HX with no-nonsense build, values large ste
 **Not** for you if under-cabinet clearance is strictly 16 in or less. Not for you if you want a stock PID (the PID variant adds cost and is often out of stock). Not for you if you want current-generation aesthetics — the Andreja looks dated next to a Ride or Synchronika.
 
 For an even milk/espresso user, the Andreja is a solid HX pick at $1,850, genuinely competitive with the Mara X ($1,699) and Pro 400 ($1,699). The Andreja's 1.8 L steam boiler is the biggest on the HX list. **Verify the 16-inch clearance before committing.**
-
-## Where to buy
-
-- [Chris' Coffee](https://www.chriscoffee.com/products/quick-mill-andreja-premium-evo)
-- [Espresso Outlet](https://espressooutlet.net/)
-- [Coffeeionado](https://coffeeionado.com/) — 2-year warranty standard
-- [1st-line.com](https://www.1stincoffee.com/) — Quick Mill specialist
-- [Whole Latte Love](https://www.wholelattelove.com/products/quick-mill-andreja-premium)

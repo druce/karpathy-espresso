@@ -1,8 +1,16 @@
 # Breville Bambino Plus
 
-![Breville Bambino Plus](https://www.breville.com/en-us/product/bes500)
+![Breville Bambino Plus](../images/breville-bambino-plus.png)
 
 > The outlier on this list. A $400-$500 thermoblock with automatic milk frothing, 3-second warmup, and a genuine pre-infusion. The best absolute-beginner machine money can buy, and the only machine here that does auto-milk.
+
+## Where to buy
+
+- [Whole Latte Love](https://www.wholelattelove.com/products/breville-bes500bss-bambino-plus)
+- [Seattle Coffee Gear](https://www.seattlecoffeegear.com/)
+- [Amazon](https://www.amazon.com/) — frequently the cheapest
+- [Williams-Sonoma](https://www.williams-sonoma.com/) — for gift purchases
+- [Best Buy](https://www.bestbuy.com/)
 
 ## Quick facts
 
@@ -111,11 +119,3 @@ A first-time espresso buyer who wants results on day one, values ease of use and
 **Not** for you: this use case is even-split milk/espresso upgrading from Mr. Coffee with a Specialita grinder. The Specialita implies commitment. The Bambino Plus would be a step up in result but a step sideways in workflow — still a single-boiler-style serial experience. Your $3,000 budget makes this the wrong buy.
 
 Include it on this wiki as the reference point for "the easy path" — and because it might be the right machine for a second household member with different priorities.
-
-## Where to buy
-
-- [Whole Latte Love](https://www.wholelattelove.com/products/breville-bes500bss-bambino-plus)
-- [Seattle Coffee Gear](https://www.seattlecoffeegear.com/)
-- [Amazon](https://www.amazon.com/) — frequently the cheapest
-- [Williams-Sonoma](https://www.williams-sonoma.com/) — for gift purchases
-- [Best Buy](https://www.bestbuy.com/)

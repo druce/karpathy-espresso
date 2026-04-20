@@ -1,8 +1,14 @@
 # Rocket Appartamento
 
-![Rocket Appartamento](https://www.wholelattelove.com/products/rocket-espresso-appartamento)
+![Rocket Appartamento](../images/rocket-appartamento.jpg)
 
 > Italian hand-built E61 HX in a compact footprint. The machine you buy when you want a commercial-feel heart on a home-counter scale, and you don't need a PID.
+
+## Where to buy
+
+- [Whole Latte Love](https://www.wholelattelove.com/products/rocket-espresso-appartamento)
+- [Seattle Coffee Gear](https://www.seattlecoffeegear.com/products/rocket-espresso-appartamento-espresso-machine)
+- [Clive Coffee](https://clivecoffee.com/products/rocket-appartamento-tca-espresso-machine) — TCA variant
 
 ## Quick facts
 
@@ -113,9 +119,3 @@ Someone who values hand-assembled Italian build, wants commercial-grade steam an
 **Not** for you if you want PID precision, light-roast-capable brew stability without flushing, or the lowest possible learning curve. For those, Lelit Mara X is a better HX choice and costs $300 less.
 
 For an even milk/espresso user on a $3,000 budget, the Appartamento is a fine pick — but the Mara X's PID'd thermosiphon and lower price arguably dominate it unless you specifically want the Rocket build/aesthetic.
-
-## Where to buy
-
-- [Whole Latte Love](https://www.wholelattelove.com/products/rocket-espresso-appartamento)
-- [Seattle Coffee Gear](https://www.seattlecoffeegear.com/products/rocket-espresso-appartamento-espresso-machine)
-- [Clive Coffee](https://clivecoffee.com/products/rocket-appartamento-tca-espresso-machine) — TCA variant
