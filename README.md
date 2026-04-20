@@ -13,6 +13,7 @@ Task: research moving from a Mr. Coffee One-Touch to a prosumer espresso machine
 - [Buyer's guide](buyer-guide.md) — opinionated picks by tier, skill, and priority
 - [Espresso basics](concepts/espresso-basics.md) — pressure, temperature, extraction
 - [Boiler types explained](concepts/boiler-types.md) — single boiler vs heat exchanger vs dual boiler
+- [Brew groups](concepts/brew-groups.md) — E61, saturated, thermoblock, and the history of the Faema E61
 - [Steam wands and milk](concepts/steam-wands-and-milk.md) — panarello vs single-hole vs commercial
 - [PID, flow, pressure](concepts/pid-flow-pressure.md) — what they control and why it matters
 
@@ -60,33 +61,35 @@ Separate boilers for brew and steam. Best brew-temperature stability plus instan
 
 Prices are April 2026 street (USD). All machines listed are 110V US variants. "**Tight**" in the height column means 15.5"+ — verify your cabinet clearance before buying.
 
-| Machine | Type | Street | Warmup | W×D×H (in) | Weight | PID | Flow control | Plumb |
-|---|---|---|---|---|---|---|---|---|
-| [Breville Bambino Plus](machines/breville-bambino-plus.md) | Thermoblock | $399-499 | 3 sec | 7.7×12.6×12.2 | 11 lb | Yes | — | No |
-| [Gaggia Classic Pro](machines/gaggia-classic-pro.md) | Single boiler | $449-549 | 5-10 min | 9.5×8.0×14.2 | 19 lb | Mod | Mod | No |
-| [Lelit Anna](machines/lelit-anna.md) | Single boiler | $599-649 | 3-5 min | 9.0×10.3×13.4 | 16.5 lb | Yes | — | No |
-| [Rancilio Silvia](machines/rancilio-silvia.md) | Single boiler | $900-995 | ~25 min | 9.2×11.0×13.4 | 30 lb | Mod | Mod | No |
-| [Profitec Go](machines/profitec-go.md) | Single boiler (rotary) | $1,199 | 5-6 min | 8.3×14.5×14.9 | 29 lb | Yes | — | No |
-| [Quick Mill Pop Up](machines/quick-mill-pop-up.md) | Single boiler (saturated) | $1,295 | ~15 min | 10.25×13.0×14.45 | 35 lb | Yes | **Paddle (stock)** | No |
-| [Quick Mill Alexia Evo](machines/quick-mill-alexia-evo.md) | Single boiler (E61) | $1,550 | 10-12 min | 9.5×17.5×15.9 | 38 lb | Yes | FC kit | No |
-| [Breville BES920XL](machines/breville-bes920xl.md) | Dual boiler | $1,599 | 15-20 min | 16.3×15.0×15.0 | 30 lb | Yes (dual) | Slayer Mod | No |
-| [Profitec Pro 400](machines/profitec-pro-400.md) | HX (E61) | $1,699 | 5-10 min | 9.0×17.6×14.7 | 41 lb | Yes (3-preset) | FCD kit | No |
-| [Lelit Mara X](machines/lelit-mara-x.md) | HX (E61, dual PID) | $1,699 | 8-10 min | 8.9×20.5×14.0 | 42 lb | Yes (3-preset) | X3 variant | Yes |
-| [ECM Classika PID](machines/ecm-classika.md) | SB (E61) | $1,699-1,899 | 11-15 min | 9.8×17.8×15.8 | 46 lb | Yes (1°C) | FCD kit | Yes |
-| [Lelit Elizabeth V3](machines/lelit-elizabeth.md) | Dual boiler (saturated) | $1,799 | ~15 min | 12.0×11.0×15.0 | 27 lb | Yes (dual) | Electronic PI | No |
-| [Profitec Pro 300](machines/profitec-pro-300.md) | Dual boiler (saturated) | $1,799-1,929 | 8.5-10 min | 10.0×16.3×15.2 | 40 lb | Yes (dual) | Kit | No |
-| [Rocket Appartamento](machines/rocket-appartamento.md) | HX (E61) | $1,850-2,050 | ~20 min | 10.8×16.7×14.2 | 48 lb | TCA only | Aftermarket | Yes |
-| [Quick Mill Andreja Prem. Evo](machines/quick-mill-andreja-premium-evo.md) | HX (E61) | $1,850 | 10-15 min | 11.0×17.0×**16.0 Tight** | 46 lb | Optional | FC kit | Aftermarket |
-| [Profitec Move](machines/profitec-move.md) | Dual boiler (saturated) | $1,999 | 9 min | 10.6×17.5×14.8 | 41 lb | Yes (dual) | — | No |
-| [Profitec Pro 600](machines/profitec-pro-600.md) | Dual boiler (E61) | $2,399 | 10 min | 12.0×17.6×15.6 | 53 lb | Yes (dual) | FCD kit | No |
-| [Quick Mill QM67 Evo](machines/quick-mill-qm67-evo.md) | Dual boiler (E61) | $2,395-2,495 | 12-15 min | 11.3×17.8×**16.25 Exceeds** | 50 lb | Yes (dual) | FC kit | No |
-| [Profitec Ride](machines/profitec-ride.md) | Dual boiler (E61) | $2,599 | 8-10 min | 11.8×22.0×14.6 | 62 lb | Yes (dual) | FCD kit | No |
-| [Lelit Bianca V3](machines/lelit-bianca.md) | Dual boiler (E61, paddle) | $2,999 | 10-12 min | 11.4×19.1×15.75 | 58 lb | Yes (dual) | **Paddle (stock)** | Yes |
-| [Rocket Mozzafiato R](machines/rocket-mozzafiato-r.md) | HX (E61, rotary) | $3,100 | ~20 min | 11.0×16.75×15.75 | 67 lb | Yes | Aftermarket | Yes |
-| [ECM Synchronika II](machines/ecm-synchronika.md) | Dual boiler (E61, rotary) | $3,599 | 6.5 min | 13.8×18.3×**16.3 Tight** | 55 lb | Yes (dual) | Aftermarket | Yes |
-| [Decent DE1Pro](machines/decent-de1pro.md) | Software / flash heater | $3,699 | <5 min | 9.0×14.5×16.5 (w/ tablet) | 30 lb | Yes (software) | **Software** | Yes |
+| Machine | Type | Street | Warmup | W×D×H (in) | Weight | PID | Pre-infusion | Flow control | Plumb |
+|---|---|---|---|---|---|---|---|---|---|
+| [Breville Bambino Plus](machines/breville-bambino-plus.md) | Thermoblock | $399-499 | 3 sec | 7.7×12.6×12.2 | 11 lb | Yes | Active | — | No |
+| [Gaggia Classic Pro](machines/gaggia-classic-pro.md) | Single boiler | $449-549 | 5-10 min | 9.5×8.0×14.2 | 19 lb | Mod | None | Mod | No |
+| [Lelit Anna](machines/lelit-anna.md) | Single boiler | $599-649 | 3-5 min | 9.0×10.3×13.4 | 16.5 lb | Yes | Programmable | — | No |
+| [Rancilio Silvia](machines/rancilio-silvia.md) | Single boiler | $900-995 | ~25 min | 9.2×11.0×13.4 | 30 lb | Mod | None | Mod | No |
+| [Profitec Go](machines/profitec-go.md) | Single boiler (rotary) | $1,199 | 5-6 min | 8.3×14.5×14.9 | 29 lb | Yes | Passive (chamber) | — | No |
+| [Quick Mill Pop Up](machines/quick-mill-pop-up.md) | Single boiler (saturated) | $1,295 | ~15 min | 10.25×13.0×14.45 | 35 lb | Yes | Programmable + paddle | **Paddle (stock)** | No |
+| [Quick Mill Alexia Evo](machines/quick-mill-alexia-evo.md) | Single boiler (E61) | $1,550 | 10-12 min | 9.5×17.5×15.9 | 38 lb | Yes | Passive (E61) | FC kit | No |
+| [Breville BES920XL](machines/breville-bes920xl.md) | Dual boiler | $1,599 | 15-20 min | 16.3×15.0×15.0 | 30 lb | Yes (dual) | Programmable | Slayer Mod | No |
+| [Profitec Pro 400](machines/profitec-pro-400.md) | HX (E61) | $1,699 | 5-10 min | 9.0×17.6×14.7 | 41 lb | Yes (3-preset) | Passive (E61) | FCD kit | No |
+| [Lelit Mara X](machines/lelit-mara-x.md) | HX (E61, dual PID) | $1,699 | 8-10 min | 8.9×20.5×14.0 | 42 lb | Yes (3-preset) | Passive (E61) | X3 variant | Yes |
+| [ECM Classika PID](machines/ecm-classika.md) | SB (E61) | $1,699-1,899 | 11-15 min | 9.8×17.8×15.8 | 46 lb | Yes (1°C) | Passive (E61) | FCD kit | Yes |
+| [Lelit Elizabeth V3](machines/lelit-elizabeth.md) | Dual boiler (saturated) | $1,799 | ~15 min | 12.0×11.0×15.0 | 27 lb | Yes (dual) | Programmable | Electronic PI | No |
+| [Profitec Pro 300](machines/profitec-pro-300.md) | Dual boiler (saturated) | $1,799-1,929 | 8.5-10 min | 10.0×16.3×15.2 | 40 lb | Yes (dual) | Programmable | Kit | No |
+| [Rocket Appartamento](machines/rocket-appartamento.md) | HX (E61) | $1,850-2,050 | ~20 min | 10.8×16.7×14.2 | 48 lb | TCA only | Passive (E61) | Aftermarket | Yes |
+| [Quick Mill Andreja Prem. Evo](machines/quick-mill-andreja-premium-evo.md) | HX (E61) | $1,850 | 10-15 min | 11.0×17.0×**16.0 Tight** | 46 lb | Optional | Passive (E61) | FC kit | Aftermarket |
+| [Profitec Move](machines/profitec-move.md) | Dual boiler (saturated) | $1,999 | 9 min | 10.6×17.5×14.8 | 41 lb | Yes (dual) | Programmable | — | No |
+| [Profitec Pro 600](machines/profitec-pro-600.md) | Dual boiler (E61) | $2,399 | 10 min | 12.0×17.6×15.6 | 53 lb | Yes (dual) | Passive (E61) | FCD kit | No |
+| [Quick Mill QM67 Evo](machines/quick-mill-qm67-evo.md) | Dual boiler (E61) | $2,395-2,495 | 12-15 min | 11.3×17.8×**16.25 Exceeds** | 50 lb | Yes (dual) | Passive (E61) | FC kit | No |
+| [Profitec Ride](machines/profitec-ride.md) | Dual boiler (E61) | $2,599 | 8-10 min | 11.8×22.0×14.6 | 62 lb | Yes (dual) | Passive (E61) | FCD kit | No |
+| [Lelit Bianca V3](machines/lelit-bianca.md) | Dual boiler (E61, paddle) | $2,999 | 10-12 min | 11.4×19.1×15.75 | 58 lb | Yes (dual) | Paddle (E61) | **Paddle (stock)** | Yes |
+| [Rocket Mozzafiato R](machines/rocket-mozzafiato-r.md) | HX (E61, rotary) | $3,100 | ~20 min | 11.0×16.75×15.75 | 67 lb | Yes | Passive (E61) | Aftermarket | Yes |
+| [ECM Synchronika II](machines/ecm-synchronika.md) | Dual boiler (E61, rotary) | $3,599 | 6.5 min | 13.8×18.3×**16.3 Tight** | 55 lb | Yes (dual) | Passive (E61) | Aftermarket | Yes |
+| [Decent DE1Pro](machines/decent-de1pro.md) | Software / flash heater | $3,699 | <5 min | 9.0×14.5×16.5 (w/ tablet) | 30 lb | Yes (software) | Programmable (software) | **Software** | Yes |
 
 "—" = not available / not relevant. "Mod" = common aftermarket modification. "Tight" = at or above 16" height; confirm cabinet clearance. "**Exceeds**" = does not fit a standard 16" under-cabinet space; only buy if your counter has more clearance.
+
+**Pre-infusion categories:** *None* = no stock pre-infusion. *Passive (E61)* = mechanical pre-infusion via the E61 group's spring-loaded chamber at line pressure; no electronics. *Passive (chamber)* = similar line-pressure wet-up via a proprietary non-E61 chamber (Profitec Go). *Active* = fixed electronic pump ramp, not user-adjustable (Breville Bambino Plus). *Programmable* = user-configurable timing and/or pressure via the machine's controller. *Paddle* = manual pre-infusion via the flow-control paddle; the user controls pressure ramp by hand. See [brew groups](concepts/brew-groups.md) for how each mechanism works.
 
 ## Sources and reviewers
 
