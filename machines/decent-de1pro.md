@@ -1,4 +1,4 @@
-# Decent DE1Pro
+# [Decent DE1Pro](https://decentespresso.com/de1pro)
 
 ![Decent DE1Pro](../images/decent-de1pro.jpg)
 

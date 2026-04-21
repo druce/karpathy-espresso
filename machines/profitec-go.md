@@ -1,4 +1,4 @@
-# Profitec Go
+# [Profitec Go](https://www.profitec-espresso.com/en/products/go)
 
 ![Profitec Go](../images/profitec-go.jpg)
 

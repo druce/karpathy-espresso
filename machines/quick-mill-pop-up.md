@@ -1,4 +1,4 @@
-# Quick Mill Pop Up
+# [Quick Mill Pop Up](https://www.quick-mill.com/products/pop-up/)
 
 ![Quick Mill Pop Up](../images/quick-mill-pop-up.png)
 

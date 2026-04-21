@@ -1,44 +1,34 @@
-# [Machine Name]
-
-![Machine image](image-url)
+# [Machine Name](url for manufacturer model page)
 
 > One-sentence positioning: what this machine is and who it serves.
 
-## Where to buy
-
-- [Whole Latte Love](url)
-- [Clive Coffee](url)
-- [Seattle Coffee Gear](url)
-- [Amazon](url) _(if applicable)_
-
-## Quick facts
-
-| | |
-|---|---|
-| **Type** | Single boiler / HX / Dual boiler |
-| **MSRP** | $X,XXX |
-| **Street price** | $X,XXX (as of 2026) |
-| **Dimensions (W×D×H)** | X × X × X in |
-| **Weight** | XX lb |
-| **Warmup time** | XX min |
-| **PID** | Yes / No |
-| **Flow/pressure control** | None / Needle valve / Profiling paddle |
-| **Steam wand** | Panarello / Single-hole / Commercial multi-hole |
-| **Portafilter** | 58mm / 54mm / 53mm |
-| **Plumbable** | Yes / No |
-| **Fits under 16" cabinet** | Yes / Tight / No |
-
-## Specs
-
-- **Boiler(s):** [size, material]
-- **Pump:** [vibratory / rotary, pressure]
-- **Group:** [E61 / saturated / thermoblock / proprietary]
-- **Reservoir:** [size]
-- **Build:** [stainless / painted steel / plastic panels]
+![Machine image](image-url)
 
 ## Key features
 
 [PID presence, pre-infusion style, flow/pressure control implementation, notable build details, unique workflow elements]
+
+## Quick facts
+
+|                            |                                                 |
+| -------------------------- | ----------------------------------------------- |
+| **Type**                   | Single boiler / HX / Dual boiler                |
+| **MSRP**                   | $X,XXX                                          |
+| **Street price**           | $X,XXX (as of 2026)                             |
+| **Dimensions (W×D×H)**     | X × X × X in                                    |
+| **Weight**                 | XX lb                                           |
+| **Warmup time**            | XX min                                          |
+| **PID**                    | Yes / No                                        |
+| **Flow/pressure control**  | None / Needle valve / Profiling paddle          |
+| **Steam Wand**             | Panarello / Single-hole / Commercial multi-hole |
+| **Group**                  | [E61 / saturated / thermoblock / proprietary    |
+| **Portafilter**            | 58mm / 54mm / 53mm                              |
+| **Reservoir**              | [size]                                          |
+| **Plumbable**              | Yes / No                                        |
+| **Fits under 16" cabinet** | Yes / Tight / No                                |
+| **Boiler(s)**              | [size, material]                                |
+| **Pump**                   | [vibratory / rotary, pressure]                  |
+| **Build**                  | [stainless / painted steel / plastic panels]    |
 
 ## Steam and milk workflow
 
@@ -68,7 +58,16 @@
 **Cons**
 - …
 
-## Key reviews and references
+## Where to buy
+
+- [Whole Latte Love](url) _(each if applicable)_
+- [Clive Coffee](url)
+- [Seattle Coffee Gear](url)
+- [Amazon](url) 
+- [Other 1](url) 
+- [Other 2](url) 
+  
+## Key reviews, videos and references
 
 - [Reviewer name — title](url)
 - …

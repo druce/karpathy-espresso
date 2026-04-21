@@ -1,4 +1,4 @@
-# Lelit Elizabeth (PL92T V3)
+# [Lelit Elizabeth (PL92T V3)](https://www.lelit.com/en-us/product/elizabeth-pesel01)
 
 ![Lelit Elizabeth](../images/lelit-elizabeth.jpg)
 

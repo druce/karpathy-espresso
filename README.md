@@ -82,10 +82,10 @@ Prices are April 2026 street (USD). All machines listed are 110V US variants. "*
 | [Profitec Pro 600](machines/profitec-pro-600.md) | Dual boiler (E61) | $2,399 | 10 min | 12.0×17.6×15.6 | 53 lb | Yes (dual) | Passive (E61) | FCD kit | No |
 | [Quick Mill QM67 Evo](machines/quick-mill-qm67-evo.md) | Dual boiler (E61) | $2,395-2,495 | 12-15 min | 11.3×17.8×**16.25 Exceeds** | 50 lb | Yes (dual) | Passive (E61) | FC kit | No |
 | [Profitec Ride](machines/profitec-ride.md) | Dual boiler (E61) | $2,599 | 8-10 min | 11.8×22.0×14.6 | 62 lb | Yes (dual) | Passive (E61) | FCD kit | No |
-| [Lelit Bianca V3](machines/lelit-bianca.md) | Dual boiler (E61, paddle) | $2,999 | 10-12 min | 11.4×19.1×15.75 | 58 lb | Yes (dual) | Paddle (E61) | **Paddle (stock)** | Yes |
-| [Rocket Mozzafiato R](machines/rocket-mozzafiato-r.md) | HX (E61, rotary) | $3,100 | ~20 min | 11.0×16.75×15.75 | 67 lb | Yes | Passive (E61) | Aftermarket | Yes |
+| [Lelit Bianca V3](machines/lelit-bianca.md) | Dual boiler (E61, paddle) | $2,999 | 10-12 min | 11.4×19.1×**15.75 Tight** | 58 lb | Yes (dual) | Paddle (E61) | **Paddle (stock)** | Yes |
+| [Rocket Mozzafiato R](machines/rocket-mozzafiato-r.md) | HX (E61, rotary) | $3,100 | ~20 min | 11.0×16.75×**15.75 Tight** | 67 lb | Yes | Passive (E61) | Aftermarket | Yes |
 | [ECM Synchronika II](machines/ecm-synchronika.md) | Dual boiler (E61, rotary) | $3,599 | 6.5 min | 13.8×18.3×**16.3 Tight** | 55 lb | Yes (dual) | Passive (E61) | Aftermarket | Yes |
-| [Decent DE1Pro](machines/decent-de1pro.md) | Software / flash heater | $3,699 | <5 min | 9.0×14.5×16.5 (w/ tablet) | 30 lb | Yes (software) | Programmable (software) | **Software** | Yes |
+| [Decent DE1Pro](machines/decent-de1pro.md) | Software / flash heater | $3,699 | <5 min | 9.0×14.5×**16.5 Tight** (w/ tablet; 12.6 w/o) | 30 lb | Yes (software) | Programmable (software) | **Software** | Yes |
 
 "—" = not available / not relevant. "Mod" = common aftermarket modification. "Tight" = at or above 16" height; confirm cabinet clearance. "**Exceeds**" = does not fit a standard 16" under-cabinet space; only buy if your counter has more clearance.
 

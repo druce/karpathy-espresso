@@ -1,4 +1,4 @@
-# Lelit Mara X (PL62X V2)
+# [Lelit Mara X (PL62X V2)](https://www.lelit.com/en-us/product/marax-pesmx02)
 
 ![Lelit Mara X](../images/lelit-mara-x.jpg)
 

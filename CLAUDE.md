@@ -37,7 +37,7 @@ A research wiki for purchasing an espresso machine as an upgrade from a Mr. Coff
 - **Neutral per-machine pages, opinionated buyer-guide.** Machine pages stick to facts, reviewer quotes, specs, and balanced pros/cons. The buyer-guide makes clear picks and calls out overrated/underrated machines.
 - **Target length:** ~800-1,200 words per machine page.
 - **Always list:** image link, price (MSRP + street), dimensions, weight, warmup, PID status, flow control, plumbable, fits-under-16"-cabinet.
-- **Always link:** Whole Latte Love / Clive Coffee / Seattle Coffee Gear / Chris' Coffee / relevant retailer, plus at least 2 reviewer links and 1-2 forum threads per machine.
+- **Always link:** Manufacturer's page for this model, Whole Latte Love / Clive Coffee / Seattle Coffee Gear / Chris' Coffee / relevant retailer, plus at least 2 reviewer links and 1-5 forum threads per machine.
 - **Grinder pairing note:** framed around the Specialita (won't bottleneck anything; mention when a single-dose upgrade would add meaningful value).
 - **Flag counter-fit concerns:** any machine >15.5" tall gets a "Tight" or explicit "measure carefully" note.
 
@@ -88,21 +88,22 @@ A research wiki for purchasing an espresso machine as an upgrade from a Mr. Coff
 
 ## Per-machine page template
 
-See `machines/_template.md` for the canonical template. Required sections:
-1. Header image, positioning sentence
-2. Where to buy (retailer links — moved to top so readers hit purchase options before wading through specs)
-3. Quick-facts table (type, MSRP, street price, dimensions, weight, warmup, PID, flow control, steam wand, portafilter, plumbable, fits-under-16")
-4. Specs (boiler, pump, group, reservoir, wattage, voltage, build)
-5. Key features
-6. Steam and milk workflow
-7. Brew workflow and temperature stability
-8. Grinder pairing (specific to Specialita)
-9. Complexity and learning curve
-10. Modification and upgrade potential
-11. Pros and cons
-12. Key reviews and references (2-3 links with 1-line summary)
-13. Notable forum threads (1-2 links)
-14. Who it's for (who should buy, who should look elsewhere)
+`machines/_template.md` is canonical. Each page has an H1 title linking to the manufacturer's model page, a one-line `>` blockquote positioning sentence, a header image at `../images/<slug>.<ext>`, then these 12 H2 sections in order:
+
+1. Key features (PID, pre-infusion, flow/pressure, notable build)
+2. Quick facts (single table: Type, MSRP, Street price, Dimensions, Weight, Warmup, PID, Flow/pressure control, Steam Wand, Group, Portafilter, Reservoir, Plumbable, Fits under 16" cabinet, Boiler(s), Pump, Build)
+3. Steam and milk workflow
+4. Brew workflow and temperature stability
+5. Grinder pairing (framed around the Specialita)
+6. Complexity and learning curve
+7. Modification and upgrade potential
+8. Pros and cons
+9. Where to buy (retailer links; include manufacturer link if distinct from H1)
+10. Key reviews, videos and references (2-3 links with 1-line summary)
+11. Notable forum threads (1-2 links)
+12. Who it's for (one paragraph on who should buy, who should look elsewhere)
+
+Specs (boiler size, pump type, wattage, voltage, build material) live inside the Quick facts table rather than a separate section.
 
 ## User context reminders
 

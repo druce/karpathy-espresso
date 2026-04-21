@@ -1,4 +1,4 @@
-# Lelit Bianca (V3)
+# [Lelit Bianca (V3)](https://www.lelit.com/en-us/product/bianca-pesbn03)
 
 ![Lelit Bianca V3](../images/lelit-bianca.jpg)
 
@@ -25,7 +25,7 @@
 | **Steam wand** | Articulating, 2-hole tip (V3 updated knobs) |
 | **Portafilter** | 58mm |
 | **Plumbable** | **Yes** — modular reservoir, can be direct-plumbed |
-| **Fits under 16" cabinet** | Yes (15.75 in) |
+| **Fits under 16" cabinet** | Tight (15.75 in) — measure carefully |
 
 ## Specs
 

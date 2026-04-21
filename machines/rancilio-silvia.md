@@ -1,4 +1,4 @@
-# Rancilio Silvia (M V6)
+# [Rancilio Silvia (M V6)](https://www.ranciliogroup.com/rancilio/silvia/silvia/)
 
 ![Rancilio Silvia](../images/rancilio-silvia.jpg)
 

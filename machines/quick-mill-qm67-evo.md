@@ -1,4 +1,4 @@
-# Quick Mill QM67 Evo
+# [Quick Mill QM67 Evo](https://www.quick-mill.com/product-category/home-espresso-machines/)
 
 ![Quick Mill QM67 Evo](../images/quick-mill-qm67-evo.png)
 

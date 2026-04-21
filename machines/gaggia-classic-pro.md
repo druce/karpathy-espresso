@@ -1,4 +1,4 @@
-# Gaggia Classic Pro
+# [Gaggia Classic Pro](https://gaggia-usa.com/products/gaggia-classic-ss-brushed-stainless-steel-semi-automatic-espresso-machine-1)
 
 ![Gaggia Classic Pro](../images/gaggia-classic-pro.png)
 

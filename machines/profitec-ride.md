@@ -1,4 +1,4 @@
-# Profitec Ride
+# [Profitec Ride](https://www.profitec-espresso.com/en/products/ride)
 
 ![Profitec Ride](../images/profitec-ride.jpg)
 

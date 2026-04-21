@@ -1,4 +1,4 @@
-# Breville Dual Boiler (BES920XL)
+# [Breville Dual Boiler (BES920XL)](https://www.breville.com/en-us/product/bes920)
 
 ![Breville BES920XL](../images/breville-bes920xl.jpg)
 

@@ -1,4 +1,4 @@
-# Profitec Pro 300
+# [Profitec Pro 300](https://www.profitec-espresso.com/en/products/pro300)
 
 ![Profitec Pro 300](../images/profitec-pro-300.jpg)
 

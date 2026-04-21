@@ -1,4 +1,4 @@
-# Profitec Move
+# [Profitec Move](https://www.profitec-espresso.com/en/products/move)
 
 ![Profitec Move](../images/profitec-move.jpg)
 
