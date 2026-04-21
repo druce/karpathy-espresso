@@ -15,6 +15,7 @@ A research wiki for purchasing an espresso machine as an upgrade from a Mr. Coff
 ├── concepts/
 │   ├── espresso-basics.md
 │   ├── boiler-types.md
+│   ├── brew-groups.md
 │   ├── steam-wands-and-milk.md
 │   └── pid-flow-pressure.md
 ├── machines/
@@ -63,6 +64,7 @@ A research wiki for purchasing an espresso machine as an upgrade from a Mr. Coff
 - Rancilio Silvia M V6
 - Profitec Go
 - Quick Mill Alexia Evo (saturated group)
+- Quick Mill Pop Up (saturated-style group, stock paddle flow control)
 
 ### Heat exchanger ($1,500-$3,100)
 - Lelit Mara X (PL62X)
@@ -88,19 +90,19 @@ A research wiki for purchasing an espresso machine as an upgrade from a Mr. Coff
 
 See `machines/_template.md` for the canonical template. Required sections:
 1. Header image, positioning sentence
-2. Quick-facts table (type, MSRP, street price, dimensions, weight, warmup, PID, flow control, steam wand, portafilter, plumbable, fits-under-16")
-3. Specs (boiler, pump, group, reservoir, wattage, voltage, build)
-4. Key features
-5. Steam and milk workflow
-6. Brew workflow and temperature stability
-7. Grinder pairing (specific to Specialita)
-8. Complexity and learning curve
-9. Modification and upgrade potential
-10. Pros and cons
-11. Key reviews and references (2-3 links with 1-line summary)
-12. Notable forum threads (1-2 links)
-13. Who it's for (who should buy, who should look elsewhere)
-14. Where to buy (retailer links)
+2. Where to buy (retailer links — moved to top so readers hit purchase options before wading through specs)
+3. Quick-facts table (type, MSRP, street price, dimensions, weight, warmup, PID, flow control, steam wand, portafilter, plumbable, fits-under-16")
+4. Specs (boiler, pump, group, reservoir, wattage, voltage, build)
+5. Key features
+6. Steam and milk workflow
+7. Brew workflow and temperature stability
+8. Grinder pairing (specific to Specialita)
+9. Complexity and learning curve
+10. Modification and upgrade potential
+11. Pros and cons
+12. Key reviews and references (2-3 links with 1-line summary)
+13. Notable forum threads (1-2 links)
+14. Who it's for (who should buy, who should look elsewhere)
 
 ## User context reminders
 
